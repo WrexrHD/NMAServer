@@ -11,7 +11,7 @@
   <body>
 
     <input type="checkbox" id="check">
-    <!--header area start-->
+    <!--header area start-->p
     <header>
       <label for="check">
         <i class="fas fa-bars" id="sidebar_btn"></i>
@@ -58,26 +58,3 @@
     <!--sidebar end-->
 
     <div class="content">
-      <div class="sortbox">
-        <p>
-            Testerssa
-        </p>
-      </div>
-
-      <!-- iframe start -->
-      <!-- <div class="hvidbox"> -->
-      <!--<iframe src="#" width="100%" height="750px" frameborder="0" style="border-radius: 15px;">
-          </iframe> -->
-      <!-- </div> -->
-      <!-- iframe end -->
-
-    <script type="text/javascript">
-    $(document).ready(function(){
-      $('.nav_btn').click(function(){
-        $('.mobile_nav_items').toggleClass('active');
-      });
-    });
-    </script>
-
-  </body>
-</html>
